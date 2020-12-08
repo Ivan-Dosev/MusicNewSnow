@@ -13,6 +13,7 @@
 		CCCF3FFB257F279500908F74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCF3FFA257F279500908F74 /* Preview Assets.xcassets */; };
 		CCCF4006257F279500908F74 /* MusicNewSnowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF4005257F279500908F74 /* MusicNewSnowTests.swift */; };
 		CCCF4011257F279500908F74 /* MusicNewSnowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF4010257F279500908F74 /* MusicNewSnowUITests.swift */; };
+		CCCF4022257F27C900908F74 /* Gasenic.sks in Resources */ = {isa = PBXBuildFile; fileRef = CCCF4021257F27C900908F74 /* Gasenic.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		CCCF400C257F279500908F74 /* MusicNewSnowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicNewSnowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCF4010257F279500908F74 /* MusicNewSnowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicNewSnowUITests.swift; sourceTree = "<group>"; };
 		CCCF4012257F279500908F74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCCF4021257F27C900908F74 /* Gasenic.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Gasenic.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				CCCF3FF3257F279300908F74 /* MusicNewSnowApp.swift */,
 				CCCF3FF5257F279300908F74 /* ContentView.swift */,
+				CCCF4021257F27C900908F74 /* Gasenic.sks */,
 				CCCF3FF7257F279500908F74 /* Assets.xcassets */,
 				CCCF3FFC257F279500908F74 /* Info.plist */,
 				CCCF3FF9257F279500908F74 /* Preview Content */,
@@ -235,6 +238,7 @@
 			files = (
 				CCCF3FFB257F279500908F74 /* Preview Assets.xcassets in Resources */,
 				CCCF3FF8257F279500908F74 /* Assets.xcassets in Resources */,
+				CCCF4022257F27C900908F74 /* Gasenic.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
